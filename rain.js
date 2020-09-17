@@ -16,7 +16,7 @@ class d{
      
       fill("blue");
       ellipseMode(RADIUS);
-      ellipse(pos.x,pos.y,this.radius-6,this.radius+2);
+      ellipse(pos.x,pos.y,this.radius-5,this.radius+2);
     }
   };
  
